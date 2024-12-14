@@ -1,5 +1,5 @@
 <p align="center">
-    <img=".github/assets/Sem título.jpg">
+    <img width="100" src=".github/assets/banner.png">
 </p>
 
 
@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/ClaudiaPocone/prompts-recipe-to-create-a-ebook/blob/main/output/e-book curso IA.pptx> 📕Clique aqui para ler</a>
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
