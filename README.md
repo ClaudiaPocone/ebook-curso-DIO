@@ -54,8 +54,8 @@ Não utilizado por não dispor de acesso gratuito
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em `main`
+- ebook gerado durante as aulas em `main`
 
 ## 🛠️ Instruções de execução
 
