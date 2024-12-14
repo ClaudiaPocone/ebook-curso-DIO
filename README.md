@@ -1,5 +1,5 @@
 <p align="center">
-    <".github/assets/Sem título.jpg">
+    <img=".github/assets/Sem título.jpg">
 </p>
 
 
